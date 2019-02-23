@@ -711,10 +711,10 @@ mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+moment@^1.0.0:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-1.7.2.tgz#e66be344be2e9ec1d12f1e16a8ca49bf63417f4f"
+  integrity sha1-5mvjRL4unsHRLx4WqMpJv2NBf08=
 
 ms@2.0.0:
   version "2.0.0"
